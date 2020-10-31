@@ -1,0 +1,16 @@
+{
+  "name": "assignment-15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "mongoose": "^5.10.11"
+  }
+}
